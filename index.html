@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<meta charset="UTF-8">
+<title>Tic Tac Toe</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<h1>Tic Tac Toe</h1>
+
+<div class="board">
+
+<button class="cell"></button>
+<button class="cell"></button>
+<button class="cell"></button>
+
+<button class="cell"></button>
+<button class="cell"></button>
+<button class="cell"></button>
+
+<button class="cell"></button>
+<button class="cell"></button>
+<button class="cell"></button>
+
+
+</div>
+
+<h2 id="status">Player X Turn</h2>
+
+<button onclick="restartGame()">Restart</button>
+
+<div id="popup" class="popup">
+  <div class="popup-content">
+    <h2 id="winnerText"></h2>
+    <button onclick="closePopup()">Play Again</button>
+  </div>
+</div>
+<script src="script.js"></script>
+
+</body>
+</html>
