@@ -48,8 +48,8 @@ Agasthya T
 * Sound effects
 * Mobile game improvements
 
-Tic Tac Toe Game
-JavaScript Game
-HTML CSS JavaScript Project
-AI Tic Tac Toe
-Frontend Game Project
+#Tic Tac Toe Game
+#JavaScript Game
+#HTML CSS JavaScript Project
+#AI Tic Tac Toe
+#Frontend Game Project
